@@ -1,0 +1,18 @@
+html, body { height: 100%; }
+
+#page-content { flex: 1 0 auto; }
+
+#sticky-footer { flex-shrink: none; }
+
+/* Other Classes for Page Styling */
+body { background: #8bbff6; background: linear-gradient(to right, #8bbff6, #c5def8); }
+
+.jumbotron { background-image: url(/assets/photos/jumbo-header.jpg); background-size: 100%; background-position: center center; box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.5); }
+
+.jumbotron h1 { font-weight: bolder; color: #f8f8ff; }
+
+.jumbotron p { color: #f8f8ff; }
+
+.card { width: 210px; margin: 5px; }
+
+/*# sourceMappingURL=styles.css.map */

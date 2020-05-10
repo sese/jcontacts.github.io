@@ -1,0 +1,32 @@
+---
+layout: default
+title: Contacts
+---
+
+
+{% include jumbotron.html %}
+
+
+
+<div class="container">
+    <div class="row">
+        <h1>{{ page.title }}</h1>
+    </div>
+
+    <div class="row">
+      {% for contact in site.data.contacts %}
+        <div class="card float-left">
+          <img class="card-img-top" src="assets/photos/contacts/pic-{{ contact.id }}.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">{{ contact.first_name }}, {{ contact.last_name}}</h5>
+            <p class="card-text">
+              <strong>email:</strong>{{ contact.email }}<br/>
+              <strong>phone:</strong> {{ contact.phone }}
+            </p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+

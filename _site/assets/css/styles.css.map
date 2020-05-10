@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss"
+	],
+	"sourcesContent": [
+		"$alpha: 0.5;\n$jumbo-text-color: #f8f8ff;\n$bg-start: #8bbff6;\n$bg-end: #c5def8;\n\nhtml,\nbody {\n  height: 100%;\n}\n\n#page-content {\n  flex: 1 0 auto;\n}\n\n#sticky-footer {\n  flex-shrink: none;\n}\n\n/* Other Classes for Page Styling */\n\nbody {\n  background: $bg-start;\n  background: linear-gradient(to right,$bg-start,$bg-end);\n}\n\n.jumbotron {\n    background-image: url(/assets/photos/jumbo-header.jpg);\n    background-size: 100%;\n    background-position: center center;\n    box-shadow: inset 0 0 0 1000px rgba(0,0,0,$alpha);\n\n    h1 {\n       font-weight: bolder;\n       color: $jumbo-text-color;\n    }\n\n    p {\n        color: $jumbo-text-color;\n    }\n}\n\n.card {width: 210px; margin: 5px;}"
+	],
+	"names": [],
+	"mappings": "AAKA,AAAA,IAAI,EACJ,IAAI,CAAC,EACH,MAAM,EAAE,IAAI,GACb;;AAED,AAAA,aAAa,CAAC,EACZ,IAAI,EAAE,QAAQ,GACf;;AAED,AAAA,cAAc,CAAC,EACb,WAAW,EAAE,IAAI,GAClB;;AAED,oCAAoC;AAEpC,AAAA,IAAI,CAAC,EACH,UAAU,EAnBD,OAAO,EAoBhB,UAAU,EAAE,2CAA2C,GACxD;;AAED,AAAA,UAAU,CAAC,EACP,gBAAgB,EAAE,oCAAoC,EACtD,eAAe,EAAE,IAAI,EACrB,mBAAmB,EAAE,aAAa,EAClC,UAAU,EAAE,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,MAAM,CAAC,kBAAkB,GAUpD;;AAdD,AAMI,UANM,CAMN,EAAE,CAAC,EACA,WAAW,EAAE,MAAM,EACnB,KAAK,EAhCO,OAAO,GAiCrB;;AATL,AAWI,UAXM,CAWN,CAAC,CAAC,EACE,KAAK,EApCM,OAAO,GAqCrB;;AAGL,AAAA,KAAK,CAAC,EAAC,KAAK,EAAE,KAAK,EAAE,MAAM,EAAE,GAAG,GAAG"
+}
