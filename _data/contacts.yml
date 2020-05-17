@@ -6,7 +6,7 @@
   ip_address: 8.154.163.86
   avatar: https://robohash.org/consecteturestnostrum.bmp?size=50x50&set=set1
   phone: 523-986-6598
-  profile-image: http://dummyimage.com/200x200.png/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-1.jpg
 
 - id: 2
   first_name: Morey
@@ -16,8 +16,7 @@
   ip_address: 128.115.137.114
   avatar: https://robohash.org/veroquiaquis.jpg?size=50x50&set=set1
   phone: 171-816-4944
-  profile-image: http://dummyimage.com/200x200.jpg/ff4444/ffffff
-
+  profile-image: assets/photos/contacts/pic-2.jpg
 
 - id: 3
   first_name: Mala
@@ -27,7 +26,7 @@
   ip_address: 30.135.242.111
   avatar: https://robohash.org/magniomnispossimus.png?size=50x50&set=set1
   phone: 643-909-3797
-  profile-image: http://dummyimage.com/200x200.png/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-3.jpg
 
 - id: 4
   first_name: Gwennie
@@ -37,7 +36,7 @@
   ip_address: 32.115.224.54
   avatar: https://robohash.org/eosnamlaboriosam.bmp?size=50x50&set=set1
   phone: 919-628-2881
-  profile-image: http://dummyimage.com/200x200.bmp/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-4.jpg
 
 - id: 5
   first_name: Arlena
@@ -47,7 +46,7 @@
   ip_address: 181.113.141.19
   avatar: https://robohash.org/suscipitquisprovident.bmp?size=50x50&set=set1
   phone: 811-279-2816
-  profile-image: http://dummyimage.com/200x200.bmp/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-5.jpg
 
 - id: 6
   first_name: Viviene
@@ -57,7 +56,7 @@
   ip_address: 199.20.177.237
   avatar: https://robohash.org/sitvelitreiciendis.png?size=50x50&set=set1
   phone: 649-636-1370
-  profile-image: http://dummyimage.com/200x200.jpg/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-6.jpg
 
 - id: 7
   first_name: Libbey
@@ -67,7 +66,7 @@
   ip_address: 27.130.11.183
   avatar: https://robohash.org/quibusdamuttotam.bmp?size=50x50&set=set1
   phone: 289-406-4679
-  profile-image: http://dummyimage.com/200x200.bmp/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-7.jpg
 
 - id: 8
   first_name: Lavina
@@ -77,7 +76,7 @@
   ip_address: 218.8.163.107
   avatar: https://robohash.org/doloresinvoluptate.png?size=50x50&set=set1
   phone: 791-368-3903
-  profile-image: http://dummyimage.com/200x200.png/dddddd/000000
+  profile-image: assets/photos/contacts/pic-8.jpg
 
 - id: 9
   first_name: Silvio
@@ -87,7 +86,7 @@
   ip_address: 172.234.103.210
   avatar: https://robohash.org/sapientenoncupiditate.bmp?size=50x50&set=set1
   phone: 591-473-7418
-  profile-image: http://dummyimage.com/200x200.bmp/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-9.jpg
 
 - id: 10
   first_name: Gisele
@@ -97,7 +96,7 @@
   ip_address: 36.42.117.51
   avatar: https://robohash.org/expeditamagniprovident.jpg?size=50x50&set=set1
   phone: 288-120-8667
-  profile-image: http://dummyimage.com/200x200.png/dddddd/000000
+  profile-image: assets/photos/contacts/pic-10.jpg
 
 - id: 11
   first_name: Mac
@@ -107,7 +106,7 @@
   ip_address: 242.159.122.47
   avatar: https://robohash.org/etestipsam.png?size=50x50&set=set1
   phone: 271-959-0864
-  profile-image: http://dummyimage.com/200x200.bmp/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-11.jpg
 
 - id: 12
   first_name: Cacilie
@@ -117,7 +116,7 @@
   ip_address: 25.14.223.32
   avatar: https://robohash.org/dignissimosilloet.bmp?size=50x50&set=set1
   phone: 991-644-2084
-  profile-image: http://dummyimage.com/200x200.jpg/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-12.jpg
 
 
 - id: 13
@@ -128,7 +127,7 @@
   ip_address: 6.243.191.221
   avatar: https://robohash.org/expeditacorruptiid.jpg?size=50x50&set=set1
   phone: 848-342-6446
-  profile-image: http://dummyimage.com/200x200.jpg/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-13.jpg
 
 - id: 14
   first_name: Jennette
@@ -138,7 +137,7 @@
   ip_address: 104.191.117.17
   avatar: https://robohash.org/omnisvelmollitia.jpg?size=50x50&set=set1
   phone: 771-444-9703
-  profile-image: http://dummyimage.com/200x200.bmp/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-14.jpg
 
 - id: 15
   first_name: Nita
@@ -148,7 +147,7 @@
   ip_address: 16.19.118.141
   avatar: https://robohash.org/quiautitaque.jpg?size=50x50&set=set1
   phone: 310-510-2429
-  profile-image: http://dummyimage.com/200x200.jpg/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-15.jpg
 
 - id: 16
   first_name: Rosemonde
@@ -158,7 +157,7 @@
   ip_address: 139.191.90.215
   avatar: https://robohash.org/impeditautnon.png?size=50x50&set=set1
   phone: 699-576-0170
-  profile-image: http://dummyimage.com/200x200.png/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-16.jpg
 
 - id: 17
   first_name: Chantalle
@@ -168,7 +167,7 @@
   ip_address: 157.114.208.55
   avatar: https://robohash.org/laborumametlabore.jpg?size=50x50&set=set1
   phone: 261-936-0457
-  profile-image: http://dummyimage.com/200x200.bmp/dddddd/000000
+  profile-image: assets/photos/contacts/pic-17.jpg
 
 - id: 18
   first_name: Felicle
@@ -178,7 +177,7 @@
   ip_address: 180.188.175.220
   avatar: https://robohash.org/enimautema.bmp?size=50x50&set=set1
   phone: 886-155-1036
-  profile-image: http://dummyimage.com/200x200.bmp/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-18.jpg
 
 - id: 19
   first_name: Rosamund
@@ -188,7 +187,7 @@
   ip_address: 91.64.231.207
   avatar: https://robohash.org/quioditconsequuntur.jpg?size=50x50&set=set1
   phone: 531-321-9521
-  profile-image: http://dummyimage.com/200x200.jpg/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-19.jpg
 
 - id: 20
   first_name: Caritta
@@ -198,7 +197,7 @@
   ip_address: 103.65.46.167
   avatar: https://robohash.org/ametundedolore.png?size=50x50&set=set1
   phone: 437-528-9013
-  profile-image: http://dummyimage.com/200x200.jpg/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-20.jpg
 
 - id: 21
   first_name: Kinna
@@ -208,7 +207,7 @@
   ip_address: 250.7.154.65
   avatar: https://robohash.org/nequeutdolorem.jpg?size=50x50&set=set1
   phone: 571-563-0322
-  profile-image: http://dummyimage.com/200x200.jpg/dddddd/000000
+  profile-image: assets/photos/contacts/pic-21.jpg
 
 - id: 22
   first_name: Rahel
@@ -218,7 +217,7 @@
   ip_address: 24.39.22.57
   avatar: https://robohash.org/verodelectusipsa.jpg?size=50x50&set=set1
   phone: 636-934-2591
-  profile-image: http://dummyimage.com/200x200.png/dddddd/000000
+  profile-image: assets/photos/contacts/pic-22.jpg
 
 - id: 23
   first_name: Pavel
@@ -228,7 +227,7 @@
   ip_address: 193.46.115.158
   avatar: https://robohash.org/ideiusconsequatur.jpg?size=50x50&set=set1
   phone: 655-460-5636
-  profile-image: http://dummyimage.com/200x200.jpg/cc0000/ffffff
+  profile-image: assets/photos/contacts/pic-23.jpg
 
 - id: 24
   first_name: Izzy
@@ -238,7 +237,7 @@
   ip_address: 0.155.193.244
   avatar: https://robohash.org/etpraesentiumqui.jpg?size=50x50&set=set1
   phone: 604-518-7744
-  profile-image: http://dummyimage.com/200x200.png/ff4444/ffffff
+  profile-image: assets/photos/contacts/pic-24.jpg
 
 - id: 25
   first_name: Uta
@@ -248,7 +247,7 @@
   ip_address: 135.84.138.2
   avatar: https://robohash.org/consequunturcorruptisaepe.png?size=50x50&set=set1
   phone: 695-397-2311
-  profile-image: http://dummyimage.com/200x200.jpg/dddddd/000000
+  profile-image: assets/photos/contacts/pic-25.jpg
 
 - id: 26
   first_name: Benny
@@ -258,7 +257,7 @@
   ip_address: 222.99.189.57
   avatar: https://robohash.org/magnisitquidem.png?size=50x50&set=set1
   phone: 789-470-1205
-  profile-image: http://dummyimage.com/200x200.jpg/5fa2dd/ffffff
+  profile-image: assets/photos/contacts/pic-26.jpg
 
 - id: 27
   first_name: Land
@@ -268,7 +267,7 @@
   ip_address: 41.12.188.67
   avatar: https://robohash.org/asperioresestexplicabo.jpg?size=50x50&set=set1
   phone: 741-589-4831
-  profile-image: http://dummyimage.com/200x200.png/dddddd/000000
+  profile-image: assets/photos/contacts/pic-27.jpg
 
 - id: 28
   first_name: Joletta
@@ -278,5 +277,5 @@
   ip_address: 177.184.203.154
   avatar: https://robohash.org/quaeratilloautem.jpg?size=50x50&set=set1
   phone: 584-836-9188
-  profile-image: http://dummyimage.com/200x200.jpg/dddddd/000000
+  profile-image: assets/photos/contacts/pic-28.jpg
 

@@ -13,6 +13,18 @@ body { background: #8bbff6; background: linear-gradient(to right, #8bbff6, #c5de
 
 .jumbotron p { color: #f8f8ff; }
 
-.card { width: 210px; margin: 5px; }
+#main-page .column2 { float: left; width: 50%; padding: 0 10px; }
+
+#main-page .row { margin: 0 -5px; }
+
+#main-page .row:after { content: ""; display: table; clear: both; }
+
+#main-page .card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */ padding: 16px; text-align: center; background-color: #f1f1f1; }
+
+@media screen and (max-width: 800px) { #main-page .column2 { width: 100%; display: block; margin-bottom: 20px; } }
+
+#contacts .card { width: 210px; margin: 5px; }
+
+#sticky-footer small { color: ivory; }
 
 /*# sourceMappingURL=styles.css.map */
