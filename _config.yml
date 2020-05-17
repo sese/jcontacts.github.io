@@ -1,3 +1,6 @@
+url: jcontact.github.io
+   baseurl: /
+
 jumbo:
   title: Contact Book Demo
   description: Jekyll demo using generated pages from template
