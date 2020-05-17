@@ -1,0 +1,87 @@
+---
+---
+
+$alpha: 0.5;
+$jumbo-text-color: #f8f8ff;
+$bg-start: #8bbff6;
+$bg-end: #c5def8;
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+  background: $bg-start;
+  background: linear-gradient(to right,$bg-start,$bg-end);
+}
+
+.jumbotron {
+    background-image: url(/assets/photos/jumbo-header.jpg);
+    background-size: 100%;
+    background-position: center center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,$alpha);
+
+    h1 {
+       font-weight: bolder;
+       color: $jumbo-text-color;
+    }
+
+    p {
+        color: $jumbo-text-color;
+    }
+}
+
+
+#main-page {
+
+  .column2 {
+    float: left;
+    width: 50%;
+    padding: 0 10px;
+  }
+
+  .row {margin: 0 -5px;}
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+
+  @media screen and (max-width: 800px) {
+    .column2 {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+}
+
+#contacts {
+  .card { width: 210px; margin: 5px; }
+}
+
+
+#sticky-footer {
+  small {
+    color: ivory
+  }
+}
