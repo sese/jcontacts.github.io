@@ -1,12 +1,32 @@
 ---
 layout: default
 title: Contacts matter
+photos:
+    image1: assets/photos/index/index1-640.jpg
+    image2: assets/photos/index/index2-640.jpg
 ---
 
 {% include jumbotron.html %}
 
 <div class="container">
     <div class="row">
-        <h1>{{ page.title }}</h1>
+        <div class="col">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <p>{% include lorem-ipsum.md %}</p>
+            <p>{% include lorem-ipsum.md %}</p>
+        </div>
+    </div>
+    <hr/>
+</div>
+
+<div id="main-page" class="container">
+    <div class="row">
+        {% include card-col2.html photo=page.photos.image1 %}
+        {% include card-col2.html photo=page.photos.image2 %}
     </div>
 </div>

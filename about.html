@@ -1,12 +1,21 @@
 ---
 layout: default
-title: About Us
+title: About Me
 ---
 
 {% include jumbotron.html %}
 
 <div class="container">
     <div class="row">
-        <h1>{{ page.title }}</h1>
+        <div class="col">
+            <h1>{{ page.title }}</h1>
+        </div>
     </div>
+
+    <div class="row">
+        <div class="col">
+            <p>{% include lorem-ipsum.md %}</p>
+        </div>
+    </div>
+    <hr/>
 </div>

@@ -8,14 +8,14 @@ title: Contacts
 
 
 
-<div class="container">
+<div id="contacts" class="container">
     <div class="row">
         <h1>{{ page.title }}</h1>
     </div>
 
     <div class="row">
       {% for contact in site.data.contacts %}
-        <div class="card float-left">
+        <div class="card">
           <img class="card-img-top" src="assets/photos/contacts/pic-{{ contact.id }}.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">{{ contact.first_name }}, {{ contact.last_name}}</h5>
